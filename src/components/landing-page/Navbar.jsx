@@ -14,7 +14,7 @@ export default function Navbar() {
     <nav className="bg-white shadow-md">
       {/* TOp Nav */}
       <AnimatedText/>
-      <div className="container mx-auto px-4 flex items-center justify-between py-4">
+      <div className="2xl:container 2xl:mx-auto px-4 flex items-center justify-between py-4">
         {/* Logo */}
         <div className="flex items-center space-x-2">
           <div className="rounded-full bg-blue-500 p-2">
